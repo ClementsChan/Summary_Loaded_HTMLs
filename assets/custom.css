@@ -1,0 +1,4 @@
+.custom-modal .modal-dialog {
+    max-width: 90% !important;   /* Makes the modal wider */
+    width: 90% !important;       /* Ensures full width takes effect */
+}
